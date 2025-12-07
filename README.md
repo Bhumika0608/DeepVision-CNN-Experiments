@@ -46,4 +46,10 @@ This project explores how convolutional neural networks (CNNs) learn visual repr
 - **MNIST Dataset** — [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)  
 - **Fashion-MNIST** — [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)  
 - **ResNet Paper** — [https://arxiv.org/abs/1512.03385](https://arxiv.org/abs/1512.03385)  
-- **Gabor Filters Reference** — [https://ieeexplore.ieee.org/document/145193](https://ieeexplore.ieee.org/document/145193)  
+- **Gabor Filters Reference** — [https://ieeexplore.ieee.org/document/145193](https://ieeexplore.ieee.org/document/145193)
+
+  ## Results:
+
+  ![First 9 predictions](https://github.com/Bhumika0608/DeepVision-CNN-Experiments/blob/main/first_9_predictions.png)
+  ![handwritten 0 prediction](https://github.com/Bhumika0608/DeepVision-CNN-Experiments/blob/main/pred_0.jpg)
+  ![handwritten alpha prediction](https://github.com/Bhumika0608/DeepVision-CNN-Experiments/blob/main/pred_alpha.png)
